@@ -131,7 +131,7 @@ const Signup = () => {
                   onChange={changeEventHandler}
                   className="cursor-pointer"
                 />
-                <Label htmlFor="r1">Job Seeker</Label>
+                <Label htmlFor="r1">JobSeeker</Label>
               </div>
               <div className="flex items-center space-x-2">
                 <Input
