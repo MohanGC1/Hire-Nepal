@@ -116,7 +116,7 @@ const Signup = () => {
               value={input.password}
               name="password"
               onChange={changeEventHandler}
-              placeholder="mohan@gmail.com"
+              placeholder="password"
             />
           </div>
 
